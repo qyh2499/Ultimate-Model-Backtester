@@ -1,4 +1,5 @@
 # ultimate-model-backtester
+Edition V2
 
 #### Purpose:
 This project delivers a robust backtesting program for any finance model, algorithmic trading models, etc., as long as the model can produce a JSON file following a very flexible template.
